@@ -1,0 +1,23 @@
+{
+  "name": "crud_with_nodejs_and_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Mohamed IDBRAHIM",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.0.1",
+    "express": "^4.16.3",
+    "helmet": "^3.13.0",
+    "joi": "^13.7.0",
+    "mongoose": "^5.3.1",
+    "morgan": "^1.9.1"
+  }
+}

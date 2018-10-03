@@ -1,0 +1,7 @@
+{
+    "name": "App with node - DEV",
+    "mail": {
+        "host": "http://localhost",
+        "password": "1234" 
+    }
+}

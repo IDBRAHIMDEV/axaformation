@@ -1,0 +1,6 @@
+{
+    "name": "App with node - Prod",
+    "mail": {
+        "host": "http://google.com" 
+    }
+}
